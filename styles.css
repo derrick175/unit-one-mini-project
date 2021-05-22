@@ -1,0 +1,31 @@
+title {
+    text-align: center;
+}
+
+header { 
+    height: 50px;
+    background: green;
+
+}
+ #box1 {
+     height: 100px;
+
+ }
+
+#box2{
+    height: 300px;
+
+}
+
+#box3 {
+    height: 200px;
+    background:lightcoral;
+    border: maroon
+
+}
+
+footer {
+    background: green;
+    text-align: center;
+    height: 50px
+}
